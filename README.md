@@ -14,7 +14,7 @@ Welcome to my portfolio! Here, you’ll find a collection of my dashboard projec
 ### Summary View
 ![Screenshot 2025-01-13 114347](https://github.com/user-attachments/assets/5d1f2cdc-6812-43a1-bd3e-eacecc63b2e6)
 
-### Detail View 
+### Detailed View 
 ![Screenshot 2025-01-13 130210](https://github.com/user-attachments/assets/3ccb04e1-3a2c-4db4-846e-da5233d2ebbe)
 
 
