@@ -7,4 +7,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-Welcome to my portfolio! Here, you'll find a collection of data visualization dashboards created using Power BI, R, Python, Excel, and more, showcasing my expertise in analytics, business intelligence, and turning data into actionable insights.
+Welcome to my portfolio! Here, you’ll find a collection of my dashboard projects, where I take raw data and turn it into engaging, meaningful stories. Each project uses different datasets, showing how I can dive into complex information and present it in a way that’s easy to understand and visually appealing. These dashboards are all about spotting trends, uncovering patterns, and delivering insights that help drive smart decisions. Whether it’s analyzing business metrics, tracking performance, or solving real-world problems, these projects reflect my passion for using data to tell stories that matter.
