@@ -12,3 +12,9 @@ Welcome to my portfolio! Here, you’ll find a collection of my dashboard projec
 ## Project 1: Patient Wait List (PowerBI)
 
 ![Screenshot 2025-01-13 114347](https://github.com/user-attachments/assets/5d1f2cdc-6812-43a1-bd3e-eacecc63b2e6)
+
+
+
+## License
+
+Licensed under the MIT License by Franco Ramos.
