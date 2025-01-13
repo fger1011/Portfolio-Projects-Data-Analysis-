@@ -5,3 +5,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+Welcome to my portfolio! Here, you'll find a collection of data visualization dashboards created using Power BI, R, Python, Excel, and more, showcasing my expertise in analytics, business intelligence, and turning data into actionable insights.
