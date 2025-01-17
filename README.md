@@ -18,6 +18,14 @@ Welcome to my portfolio! Here, you’ll find a collection of my dashboard projec
 ![Screenshot 2025-01-13 130210](https://github.com/user-attachments/assets/3ccb04e1-3a2c-4db4-846e-da5233d2ebbe)
 
 
+## Project 2: Adidas Interactive Sales Dashboard (Python)
+
+###Total Sales
+![Image](https://github.com/user-attachments/assets/36d12bc8-e674-4ca7-972f-d1bbf1e36991)
+
+![Image](https://github.com/user-attachments/assets/57c3d730-1da3-4b4f-b73b-c1d80519e6cb)
+
+![Image](https://github.com/user-attachments/assets/e7aa4dce-3aca-4b07-9547-90f01610a284)
 
 ## License
 
