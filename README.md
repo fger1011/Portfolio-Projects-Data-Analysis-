@@ -27,6 +27,11 @@ Welcome to my portfolio! Here, you’ll find a collection of my dashboard projec
 
 ![Image](https://github.com/user-attachments/assets/e7aa4dce-3aca-4b07-9547-90f01610a284)
 
+
+## Project 3: Sales Dashboard (Python and SQL)
+
+![Image](https://github.com/user-attachments/assets/06845a41-ac33-4474-b05c-f3adb708ea72)
+![Image](https://github.com/user-attachments/assets/163a20a1-83f5-4ad5-be44-8d18d601dafb)
 ## License
 
 Licensed under the MIT License by Franco Ramos.
