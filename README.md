@@ -28,7 +28,7 @@ Welcome to my portfolio! Here, you’ll find a collection of my dashboard projec
 ![Image](https://github.com/user-attachments/assets/e7aa4dce-3aca-4b07-9547-90f01610a284)
 
 
-## Project 3: Sales Dashboard (Python and SQL)
+## Project 3: Sales Dashboard (PowerBI and SQL)
 
 ### Sales Overview
 ![Image](https://github.com/user-attachments/assets/163a20a1-83f5-4ad5-be44-8d18d601dafb)
